@@ -1,13 +1,13 @@
 {
   "main.css": "/rbdnd/static/css/main.62b817eb.chunk.css",
-  "main.js": "/rbdnd/static/js/main.70c4c74e.chunk.js",
-  "main.js.map": "/rbdnd/static/js/main.70c4c74e.chunk.js.map",
+  "main.js": "/rbdnd/static/js/main.26ed0b67.chunk.js",
+  "main.js.map": "/rbdnd/static/js/main.26ed0b67.chunk.js.map",
   "static/js/1.ecb7ab6f.chunk.js": "/rbdnd/static/js/1.ecb7ab6f.chunk.js",
   "static/js/1.ecb7ab6f.chunk.js.map": "/rbdnd/static/js/1.ecb7ab6f.chunk.js.map",
   "runtime~main.js": "/rbdnd/static/js/runtime~main.fa61491d.js",
   "runtime~main.js.map": "/rbdnd/static/js/runtime~main.fa61491d.js.map",
   "static/css/main.62b817eb.chunk.css.map": "/rbdnd/static/css/main.62b817eb.chunk.css.map",
   "index.html": "/rbdnd/index.html",
-  "precache-manifest.eafda7cf3c346f3572ffa422363b825e.js": "/rbdnd/precache-manifest.eafda7cf3c346f3572ffa422363b825e.js",
+  "precache-manifest.0bfb7ae57deafbcf5f7b4b57898fe53c.js": "/rbdnd/precache-manifest.0bfb7ae57deafbcf5f7b4b57898fe53c.js",
   "service-worker.js": "/rbdnd/service-worker.js"
 }
